@@ -1,0 +1,7 @@
+# Python 2.3 Basic Arithmetic
+
+ADDITION = 127 + 9783
+SUBTRACTION = 104 - 49
+MULTIPLICATION = 17 * 19
+DIVISION = 42 / 7
+MODULUS = 17 % 2
