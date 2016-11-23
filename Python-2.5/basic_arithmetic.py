@@ -1,4 +1,4 @@
-# Python 2.3 Basic Arithmetic
+# Python 2.7 Basic Arithmetic
 
 ADDITION = 127 + 9783
 SUBTRACTION = 104 - 49
